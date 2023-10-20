@@ -1,0 +1,24 @@
+.contenedor-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.texto4{
+    font-size:40px;
+    max-width: 100%;
+    margin: 0 auto;
+    width: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Foto3 img{
+    width: 100%;
+    height: auto;
+}
+.texto5{
+    text-align: justify;
+    margin-top: 0%;
+    font-size: 17px;
+    font-family: Verdana;
+}

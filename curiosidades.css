@@ -1,0 +1,61 @@
+.contenedor-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.foto9 img{
+    width: 100%;
+    height: auto;
+} 
+.texto9 {
+    font-size:40px;
+    max-width: 100%;
+    margin: 0 auto;
+    width: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto10 {
+    text-align: justify;
+    margin-top:0%;
+    margin-left:0%;
+    font-size:18px;
+    font-family: Verdana;
+    margin-left: 450px;
+    margin-top: -1170px;
+}
+.foto10 img{
+    max-width: 100%;
+    height: auto;
+    max-height: 80vh;
+    max-width: 100%;
+    text-align: center;
+} 
+.foto11 img{
+    max-width: 100%;
+    height: auto;
+    max-height: 80vh;
+    max-width: 100%;
+    text-align: center;
+} 
+.texto12 {
+    text-align: justify;
+    margin-top:0%;
+    margin-left:0%;
+    font-size:18px;
+    font-family: Verdana;
+    margin-left: 10px;
+    margin-top: 150px;
+}
+.texto11 {
+    text-align: justify;
+    margin-top:0%;
+    margin-left:0%;
+    font-size:18px;
+    font-family: Verdana;
+    margin-left: 500px;
+    margin-top: 0px;
+}
+
+  
